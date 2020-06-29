@@ -24,8 +24,10 @@ if (numberOfToppings < 10) {
 
 //bonus challenge//
 //Use a Loop to print all of the even numbers from 1 to numberOfToppings (or 10)//
-for (let numberOfToppings = 1; numberOfToppings <= 10; numberOfToppings++) {
-  if (numberOfToppings % 2 === 0) {
-    console.log(numberOfToppings);
+for (let i = 1; i <= numberOfToppings; i++) {
+  if (i % 2 === 0) {
+    console.log(i);
   }
 }
+
+//or if (!i % 2) //
