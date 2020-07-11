@@ -1,0 +1,189 @@
+body {
+  background-color: black;
+  margin: 0 30px;
+  height: 100%;
+}
+
+/*fonts*/
+h1 {
+  color: #ffd012;
+  font-family: 'Montserrat', arial, sans-serif;
+}
+h2 {
+  color: #18965e;
+  font-family: 'Montserrat', arial, sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: large;
+}
+
+li {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: large;
+}
+
+/*nav bar*/
+header {
+  height: 50px;
+  width: 100%;
+  background-color: whitesmoke;
+  display: inline-flex;
+  justify-content: space-evenly;
+  margin-top: 0;
+  margin-bottom: 50px;
+  border: 3px solid #04ade0;
+  border-radius: 2.5px;
+}
+
+header, p {
+  padding-top: 0px;
+  text-decoration: none;
+}
+
+/*Drake's Reviews*/
+.welcome, h1 {
+  width: 100%;
+  text-align: center
+}
+
+
+/*In Rainbows*/
+#one {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.oneText, h2 {
+  padding-right: 150px;
+  margin-top: 0;
+}
+
+/*Kid-A*/
+#two {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.twoText, h2 {
+  padding-right: 220px;
+  margin-top: 0;
+}
+
+/*Ok Computer*/
+#three {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.threeText, h2 {
+  padding-right: 130px;
+  margin-top: 0;
+}
+
+/*A Moon Shaped Pool*/
+#four {
+  margin-top: 60px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.fourText, h2 {
+  padding-right: 65px;
+  margin-top: 0;
+}
+
+/*Hail to the Theif*/
+#five {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.fiveText, h2 {
+  padding-right: 120px;
+  margin-top: 0;
+}
+
+/*Amnesiac*/
+#six {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.sixText, h2 {
+  padding-right: 170px;
+  margin-top: 0;
+}
+
+/*The Bends*/
+#seven {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.sevenText, h2 {
+  padding-right: 160px;
+  margin-top: 0;
+}
+
+/*The King of Limbs*/
+#eight {
+  margin-top: 100px;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.eightText, h2 {
+  padding-right: 80px;
+  margin-top: 0;
+}
+
+/*Pablo Honey*/
+#nine {
+  margin: 100px auto 200px auto;
+  display: inline-flex;
+  padding-left: 15%;
+  color: whitesmoke;
+}
+
+.nineText, h2 {
+  padding-right: 140px;
+  margin-top: 0;
+}
+
+/*disclaimer*/
+.disclaimer {
+  color: whitesmoke;
+  margin-left: 300px;
+}
+/*footer*/
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: whitesmoke;
+  margin-top: 10%;
+  text-align: center;
+  border: 3px solid #04ade0;
+  border-radius: 2.5px;
+}
+
+footer {
+  text-decoration: none;
+  padding-top: 0px;
+  line-height: 0.5;
+}
