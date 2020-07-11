@@ -1,7 +1,7 @@
 //In Rainbows
 document.querySelector("#inRainbows").addEventListener("click", function() {
   document.querySelector("#inRainbows").textContent =
-    "In Rainbows combines everything Radiohead does best. It grooves, it moves, it saddens, it humiliates, and it perfects the sound they spent two decades figuring out. If this album would have come out before OK Computer and Kid A, it would be recognized as one of the best albums of all time. Never have I heard an explorative album sound so pleasing to the ear.";
+    'In Rainbows combines everything Radiohead does best. It grooves, it moves, it saddens, it humiliates, and it perfects the sound they spent two decades figuring out. If this album would have come out before OK Computer and Kid A, it would be recognized as one of the best albums of all time. Many ambitious albums lack enjoyment, they just require tireless critical thinking and countless internet searches to find critics and posers, like me, that can make sense of what you just listened to. Not In Rainbows. This record has all the flares and hooks of radio pop with the complexity of a Thomas Pynchon novel. See the third track, "Nude" for confirmation.';
 });
 document.querySelector("#navRainbows").addEventListener("click", function() {
   window.location.hash = "#one";
@@ -73,7 +73,7 @@ document.querySelector("#navKing").addEventListener("click", function() {
 //Pablo Honey
 document.querySelector("#pablo").addEventListener("click", function() {
   document.querySelector("#pablo").textContent =
-    "I’ll be honest; my favorite early 90’s band is either the Red Hot Chili Peppers or PJ Harvey. I enjoy Pearl Jam’s Ten and Nirvana’s Nevermind, but they fall short of the others for me. I think early 90’s grunge improved so many aspects of 80’s hair metal, but it took away the fun. Being an anti-social free-thinking musician is great, but not when your new uniform is just as ugly as the last. Radiohead didn’t know what they were when they released Pablo Honey. How could they have? I don’t fault them for releasing Creep, it’s a great song, but Radiohead should have been doing things like Nick Cave at that time if they truly wanted a ground-breaking freshmen year. Pablo Honey can be a prequel, I’ve come to terms with that and don’t need to defend it further.";
+    'I’ll be honest; my favorite early 90’s band is either the Red Hot Chili Peppers or PJ Harvey. I enjoy Pearl Jam’s Ten and Nirvana’s Nevermind, but they fall short of the others for me. I think early 90’s grunge improved so many aspects of 80’s hair metal, but it took away the fun. Being an anti-social free-thinking musician is great, but not when your new uniform is just as ugly as the last. Radiohead didn’t know what they were when they released Pablo Honey. How could they have? I don’t fault them for releasing "Creep", it’s a great song, but Radiohead should have been doing things like Nick Cave at that time if they truly wanted a ground-breaking freshmen year. Pablo Honey can be a prequel, I’ve come to terms with that and don’t need to defend it further.';
 });
 
 document.querySelector("#navPablo").addEventListener("click", function() {
